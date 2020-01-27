@@ -413,6 +413,7 @@ header .navbar {
 	text-align: center;
 	width: 100%;
 	float: left;
+	position: sticky;
 }
 header .logo {
 	float: left;
@@ -555,7 +556,6 @@ header .quotes a:hover {
 }
 .top-info-con li a {
 	font-size: 13px;
-	text-transform: uppercase;
 	font-weight: 400;
 }
 .top-info-con .icon {
@@ -587,11 +587,110 @@ header .quotes a:hover {
       SUB BANNER
 ========================================================*/
 .sub-bnr {
-	background: url(../images/sub-bnr-bg.jpg) no-repeat;
+	 background: url(../img/1213.jpg) no-repeat;
+	 background-size: cover;
+	 min-height: 350px;
+	 text-align: center;
+	 position: relative;
+ }
+.sub-bnr-cars{
+	background: url(../img/22.jpg) no-repeat;
 	background-size: cover;
 	min-height: 350px;
 	text-align: center;
 	position: relative;
+}
+.sub-bnr-services {
+	background: url(../img/1212.jpg) no-repeat;
+	background-size: cover;
+	min-height: 350px;
+	text-align: center;
+	position: relative;
+}
+.sub-bnr-cars .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	color: #fb4848;
+
+}
+.sub-bnr-servicess .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	color: #fb4848;
+
+}
+
+.sub-bnr-servicess h4{
+	color: #fb4848;
+
+}
+.sub-bnr-cars h4{
+	color: #fb4848;
+
+}
+.sub-bnrabout {
+	background: url(../img/1212.jpg) no-repeat;
+	background-size: cover;
+	min-height: 350px;
+	text-align: center;
+	position: relative;
+}
+.sub-bnr-about .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	color: #fb4848;
+
+}
+
+.sub-bnrabout h4{
+	color: #ffffff;
+
+}
+
+.sub-bnr-about h4{
+	color: #fb4848;
+
+}
+.sub-bnrabout .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	color: #fb4848;
+}
+.sub-bnr-services .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	color: #fb4848;
+}
+.sub-bnr-services h4{
+	color: #fb4848;
+}
+.sub-bnr-servicess {
+	background: url(../img/1089.jpg) no-repeat;
+	background-size: cover;
+	min-height: 350px;
+	text-align: center;
+	position: relative;
+}
+.sub-bnr-servicess .breadcrumb {
+	background: none;
+	margin: 0px;
+	padding: 0px;
+}
+.about-li{
+	list-style: disc;
+}
+.about-li span{
+	font-weight: bold;
+	color: #000000;
+}
+.post-in li{
+	line-height: 30px;
+	color: #6f6f6f;
 }
 .sub-bnr h4 {
 	color: #fff;
@@ -689,7 +788,7 @@ header .quotes a:hover {
 	margin-bottom: 30px;
 }
 .services li article p {
-	color: #999999;
+	color: #000000;
 	font-size: 14px;
 	line-height: 24px;
 	margin: 0px;
@@ -699,7 +798,6 @@ header .quotes a:hover {
 	text-align: center;
 }
 .services li article .ser-head {
-	position: absolute;
 	bottom: -1px;
 	width: 100%;
 }
@@ -768,11 +866,11 @@ header .quotes a:hover {
 	padding: 30px 25px;
 	padding-bottom: 60px;
 	position: relative;
+	padding-top: 66px;
 }
-.detail-in li{
-	list-style: disc;
-}
-.detail-in ul{
+
+
+.detail-in ul li{
 	margin-bottom: 15px;
 }
 .detail-in p {
@@ -1988,8 +2086,60 @@ footer .social_icons a {
 	width: 100%;}
 .foot-info-con li a {
 	font-size: 13px;
-	text-transform: uppercase;
 	font-weight: 400;
+}
+.section-btns{
+	height: 600px;
+     width: 100%;
+
+}
+.section-btns .box-btns{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.section-btns .box-btns img{
+	width: 100%;
+}
+
+.section-btns:before{
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: #e4454b;
+	opacity: 0.3;
+}
+.buttons{
+	position: absolute;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	flex-direction: column;
+}
+.buttons a{
+	font-size: 30px;
+	color: #ffffff;
+}
+.buttons .quotes a{
+	font-size: 22px;
+}
+.buttons .quotes{
+	font-size: 22px;
+	justify-content: center;
+	color: #ffffff;
+	width: 160px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	margin: 10px;
+	border-radius: 5px;
+}
+.buttons .quotes a{
+	text-decoration: none;
 }
 .foot-info-con .icon {
 	height: 90px;
@@ -2812,7 +2962,7 @@ footer .social_icons a {
 	width: 86px;
 	border-radius: 50%;
 	text-align: center;
-	font-size: 24px;
+	font-size: 22px;
 	color: #36404b;
 	background: #fff;
 	line-height: 86px;
@@ -2849,7 +2999,8 @@ footer .social_icons a {
 	font-size: 36px;
 }
 .pricing ul {
-	padding: 30px 0;
+	padding: 30px 0px;
+
 }
 .pricing ul li p {
 	margin: 0px;
@@ -2858,7 +3009,9 @@ footer .social_icons a {
 .pricing ul li {
 	display: inline-block;
 	width: 100%;
-	padding: 16px 0;
+	padding: 16px 10px;
+	text-align: left;
+	list-style: disc;
 }
 .pricing ul li:nth-child(2) {
 	background: #f6f6f6;
