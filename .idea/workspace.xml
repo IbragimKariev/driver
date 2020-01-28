@@ -3,68 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e72494ad-8bbe-45e4-bc52-ccc6a3a4417e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/cars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/ionicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/1212.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/1212.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/1212.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/1213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/1213.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/2016-toyota-camry-le.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/2016-toyota-camry-le.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/287.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/287.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/img/V-class-side1.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/img/V-class-side1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/jquery.isotope.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/js/own-menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/js/own-menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/php/submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/php/submit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/layers.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/layers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/dione.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/dione.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/erinyen.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/erinyen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/gyges.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/gyges.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hades.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hades.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hebe.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hebe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hephaistos.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hephaistos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hermes.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hermes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hesperiden.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/hesperiden.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/persephone.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/persephone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/uranus.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/uranus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/navigation-skins/zeus.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/navigation-skins/zeus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/css/settings.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/css/helper.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/css/helper.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.actions.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.migration.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.video.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/revolution.extension.video.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.kenburn.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.kenburn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.layeranimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.layeranimation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.migration.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.migration.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.parallax.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.parallax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.slideanims.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.slideanims.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.video.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/extensions/source/revolution.extension.video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/jquery.themepunch.revolution.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/jquery.themepunch.revolution.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/jquery.themepunch.tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/jquery.themepunch.tools.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/source/jquery.themepunch.revolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/source/jquery.themepunch.revolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/revolution/js/source/jquery.themepunch.tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/revolution/js/source/jquery.themepunch.tools.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/tariffs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/tariffs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/uslugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/uslugi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +19,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WgtWCq3D9WdXfvltpqicO5rtD8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -131,6 +69,7 @@
       <workItem from="1579426739887" duration="14175000" />
       <workItem from="1579583097102" duration="7684000" />
       <workItem from="1580103411780" duration="594000" />
+      <workItem from="1580203759607" duration="280000" />
     </task>
     <servers />
   </component>
