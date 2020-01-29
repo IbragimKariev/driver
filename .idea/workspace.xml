@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e72494ad-8bbe-45e4-bc52-ccc6a3a4417e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2016-toyota-camry-le.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/2016-toyota-camry-le.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/V-class-side1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/V-class-side1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +31,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/driver02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,6 +73,8 @@
       <workItem from="1579583097102" duration="7684000" />
       <workItem from="1580103411780" duration="594000" />
       <workItem from="1580203759607" duration="280000" />
+      <workItem from="1580204221203" duration="221000" />
+      <workItem from="1580269890151" duration="3370000" />
     </task>
     <servers />
   </component>
